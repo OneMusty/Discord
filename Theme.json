@@ -115,8 +115,8 @@
         "PRIMARY_600": "#27251B",
         "PRIMARY_630": "#27251B",
         "PRIMARY_645": "#ff0",
-        "PRIMARY_660": "#000000",
-        "PRIMARY_700": "#000000",
+        "PRIMARY_660": "#212018",
+        "PRIMARY_700": "#ffffff",
 		"PRIMARY_730": "#312D21",
         "PRIMARY_800": "#27251B",
 		"PLUM_0": "#E1D19C",
@@ -282,4 +282,4 @@
             }
     },
     "spec": 2
-    }
+	}
