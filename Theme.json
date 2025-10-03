@@ -1,10 +1,10 @@
 {
-    "name": "YouGold",
+    "name": "MyGold",
     "description": "gold based on material you :3",
-    "version": "1.0",
+    "version": "1.01",
     "authors": [
       {
-        "name": "dor4a #avtvshutup",
+        "name": "dor4a (tweaks by OneMusty)",
         "id": "455513497288310785"
       }
     ],
@@ -115,8 +115,8 @@
         "PRIMARY_600": "#27251B",
         "PRIMARY_630": "#27251B",
         "PRIMARY_645": "#ff0",
-        "PRIMARY_660": "#212018",
-        "PRIMARY_700": "#ffffff",
+        "PRIMARY_660": "#11100C",
+        "PRIMARY_700": "#11100C",
 		"PRIMARY_730": "#312D21",
         "PRIMARY_800": "#27251B",
 		"PLUM_0": "#E1D19C",
@@ -142,7 +142,7 @@
         "BRAND_400": "#00ff00",
         "BRAND_430": "#00ff00",
         "BRAND_460": "#00ff00",
-        "BRAND_500": "#685840",
+        "BRAND_500": "#34A920",
         "BRAND_530": "#ff0",
         "BRAND_560": "#E1D19C",
         "BRAND_600": "#AB9F76",
@@ -167,8 +167,8 @@
         "RED_330": "#E1D19C",
         "RED_345": "#E1D19C",
         "RED_360": "#ff0",
-        "RED_400": "#E1D19C",
-        "RED_430": "#E1D19C",
+        "RED_400": "#F0694E",
+        "RED_430": "#F0694E",
         "RED_460": "#625B43",
         "RED_500": "#AB9F76",
         "RED_530": "#625B43",
