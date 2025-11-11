@@ -48,7 +48,6 @@
 		"MENTION_FOREGROUND": [ "#AB9F76" ],
 		"TEXT_DANGER": [ "#F0694E" ],
         "TEXT_LINK": [ "#718ECE" ],
-        "TEXT_NORMAL": [ "#FDF6DE" ],
         "TEXT_MUTED": [ "#938965" ],
         "TEXT_PRIMARY": [ "#FDF6DE" ],
         "THREAD_CHANNEL_SPINE": [ "#E1D19C" ],
