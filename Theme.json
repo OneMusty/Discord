@@ -47,6 +47,7 @@
 		"MENTION_BACKGROUND": [ "#27251B" ],
 		"MENTION_FOREGROUND": [ "#AB9F76" ],
 		"TEXT_DANGER": [ "#F0694E" ],
+        "TEXT_NORMAL": [ "#FFFFFF" ],
         "TEXT_LINK": [ "#718ECE" ],
         "TEXT_MUTED": [ "#938965" ],
         "TEXT_PRIMARY": [ "#FDF6DE" ],
